@@ -1,9 +1,5 @@
-## 프론트엔드 프로젝트용 이슈 템플릿
-
-### 1. Bug Report 템플릿
-```markdown
 ---
-name: Bug Report
+name: Frontend Bug Report
 about: UI/UX 버그를 리포트해주세요
 title: '[BUG] '
 labels: 'bug'

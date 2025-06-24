@@ -1,5 +1,5 @@
 ---
-name: Feature Request
+name: Frontend Feature Request
 about: 새로운 UI/UX 기능을 제안해주세요
 title: '[FEATURE] '
 labels: 'enhancement'

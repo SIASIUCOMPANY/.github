@@ -1,5 +1,5 @@
 ---
-name: Bug Report
+name: Backend Bug Report
 about: 버그 리포트를 작성해주세요
 title: "[BUG]"
 labels: bug
