@@ -17,7 +17,7 @@
 | [Git 워크플로우](./docs/development/git-workflow.md) | 브랜치 전략, PR 프로세스 | ✅ 완료 |
 | [커밋 메시지 가이드](./docs/development/commit-message-guide.md) | Conventional Commits 한글 가이드 | ✅ 완료 |
 | [코드 리뷰 가이드](./docs/development/code-review.md) | 2인 팀을 위한 리뷰 전략 | ✅ 완료 |
-| [PR 템플릿](./.github/pull_request_template.md) | Pull Request 작성 템플릿 | ✅ 완료 |
+| [PR 템플릿](.github/pull_request_template.md) | Pull Request 작성 템플릿 | ✅ 완료 |
 
 ### 🏁 시작하기 (예정)
 | 문서 | 설명 | 상태 |
